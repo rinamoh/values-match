@@ -1,0 +1,197 @@
+[
+  {
+    "id": "user_001",
+    "name": "Amara",
+    "values": [
+      "I believe children thrive with consistent routines and clear boundaries",
+      "Financial stability before starting a family is non-negotiable for me",
+      "I want my children to have a strong cultural and religious foundation"
+    ],
+    "goals": [
+      "I want two to three children",
+      "I plan to have one parent at home during early childhood"
+    ]
+  },
+  {
+    "id": "user_002",
+    "name": "Daniel",
+    "values": [
+      "Structure and predictability are essential for raising confident children",
+      "I prioritize building financial security before expanding my family",
+      "Passing down cultural heritage and faith to my children matters deeply to me"
+    ],
+    "goals": [
+      "I see myself having two or three kids",
+      "I want a parent present at home in the early years"
+    ]
+  },
+  {
+    "id": "user_003",
+    "name": "Sofia",
+    "values": [
+      "Children need freedom to explore and make mistakes to grow",
+      "I believe in gentle parenting without strict rules or punishments",
+      "Adventure and new experiences should be central to family life"
+    ],
+    "goals": [
+      "I want one child who gets my full attention",
+      "I plan to travel extensively with my family"
+    ]
+  },
+  {
+    "id": "user_004",
+    "name": "Marcus",
+    "values": [
+      "Kids flourish when they have room to discover themselves",
+      "I lean toward a nurturing approach rather than discipline-heavy parenting",
+      "Exploration and curiosity should define our family culture"
+    ],
+    "goals": [
+      "One child is ideal for the life I want to build",
+      "Travel and experiences over material things"
+    ]
+  },
+  {
+    "id": "user_005",
+    "name": "Lena",
+    "values": [
+      "Education is the greatest gift I can give my children",
+      "I believe in pushing children academically from a young age",
+      "Career and financial success should be modeled for children"
+    ],
+    "goals": [
+      "Two children, both highly educated",
+      "Private school and extracurricular investment from early on"
+    ]
+  },
+  {
+    "id": "user_006",
+    "name": "James",
+    "values": [
+      "Academic achievement sets children up for life",
+      "I want to instill a strong work ethic and ambition early",
+      "Financial literacy and professional success are values I will actively teach"
+    ],
+    "goals": [
+      "Two kids with strong academic foundations",
+      "Significant investment in education and development"
+    ]
+  },
+  {
+    "id": "user_007",
+    "name": "Nadia",
+    "values": [
+      "Emotional intelligence matters more than academic performance",
+      "I want my children to feel safe expressing their feelings",
+      "Mental health and wellbeing come before achievement"
+    ],
+    "goals": [
+      "Two or three children in a calm, supportive home",
+      "Therapy and emotional support normalized from childhood"
+    ]
+  },
+  {
+    "id": "user_008",
+    "name": "Kofi",
+    "values": [
+      "Raising emotionally aware children is my top priority",
+      "I believe vulnerability and emotional expression should be encouraged",
+      "Wellbeing and inner peace matter more than external success"
+    ],
+    "goals": [
+      "A small family with deep emotional connections",
+      "Mental health support as a standard part of family life"
+    ]
+  },
+  {
+    "id": "user_009",
+    "name": "Priya",
+    "values": [
+      "Community and collective responsibility should be central to how children are raised",
+      "I believe it takes a village and extended family involvement is important",
+      "Children should grow up with strong intergenerational bonds"
+    ],
+    "goals": [
+      "Three or more children surrounded by extended family",
+      "Living close to or with grandparents and relatives"
+    ]
+  },
+  {
+    "id": "user_010",
+    "name": "Emmanuel",
+    "values": [
+      "Family is not just parents and children but the whole community around them",
+      "Grandparents and extended family should be deeply involved in raising children",
+      "Intergenerational connection builds identity and resilience in children"
+    ],
+    "goals": [
+      "A large family with strong community ties",
+      "Multigenerational living or proximity to extended family"
+    ]
+  },
+  {
+    "id": "user_011",
+    "name": "Claire",
+    "values": [
+      "Environmental consciousness should be taught from birth",
+      "I want to raise children who are activists for the planet",
+      "Sustainability and minimalism should define our family lifestyle"
+    ],
+    "goals": [
+      "One or two children with a low environmental footprint",
+      "Raising children in nature away from urban environments"
+    ]
+  },
+  {
+    "id": "user_012",
+    "name": "Yusuf",
+    "values": [
+      "Raising children to care for the environment is a moral responsibility",
+      "I want to model sustainable living for my kids every day",
+      "Less consumption, more connection to the natural world"
+    ],
+    "goals": [
+      "Small family, minimal lifestyle, close to nature",
+      "Children who grow up understanding their environmental impact"
+    ]
+  },
+  {
+    "id": "user_013",
+    "name": "Hana",
+    "values": [
+      "Faith is the foundation everything else in family life is built on",
+      "I want daily spiritual practice to be part of how my children grow up",
+      "Community worship and religious education are non-negotiable for me"
+    ],
+    "goals": [
+      "Three or more children raised in a faith community",
+      "Religious schooling alongside standard education"
+    ]
+  },
+  {
+    "id": "user_014",
+    "name": "Ibrahim",
+    "values": [
+      "Spirituality and religious identity give children a strong sense of self",
+      "I want my children raised in an active faith community",
+      "Religious practice should be woven into daily family life"
+    ],
+    "goals": [
+      "Multiple children with strong religious grounding",
+      "Faith community central to social life and education"
+    ]
+  },
+  {
+    "id": "user_015",
+    "name": "Zoe",
+    "values": [
+      "Independence and self-sufficiency are the most important things I can teach my children",
+      "I believe children should learn from consequences not protection",
+      "Resilience comes from being allowed to struggle and figure things out"
+    ],
+    "goals": [
+      "One child who grows into a fully independent adult",
+      "Minimal helicopter parenting, maximum autonomy from early age"
+    ]
+  }
+]
