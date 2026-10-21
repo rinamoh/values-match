@@ -1,6 +1,6 @@
 import json
 import numpy as np
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 
 
 class ProfileEmbedder:
